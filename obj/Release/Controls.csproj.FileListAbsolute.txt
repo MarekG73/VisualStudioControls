@@ -1,0 +1,7 @@
+C:\Users\Media\Documents\Visual Studio 2015\Projects\Serwer\Controls\bin\Release\Controls.dll
+C:\Users\Media\Documents\Visual Studio 2015\Projects\Serwer\Controls\bin\Release\Controls.pdb
+C:\Users\Media\Documents\Visual Studio 2015\Projects\Serwer\Controls\obj\Release\Controls.csproj.GenerateResource.Cache
+C:\Users\Media\Documents\Visual Studio 2015\Projects\Serwer\Controls\obj\Release\Controls.dll
+C:\Users\Media\Documents\Visual Studio 2015\Projects\Serwer\Controls\obj\Release\Controls.pdb
+C:\Users\Media\Documents\Visual Studio 2015\Projects\Serwer\Controls\obj\Release\Controls.csprojResolveAssemblyReference.cache
+C:\Users\Media\Documents\Visual Studio 2015\Projects\Serwer\Controls\obj\Release\Controls.NumericBoxIP.resources
